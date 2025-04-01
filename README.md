@@ -16,3 +16,4 @@ To view your project:
 
 1. In your terminal, navigate to your project repo
 2. Run the command `open index.html`
+3. connect it with the github account
